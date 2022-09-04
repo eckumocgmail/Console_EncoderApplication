@@ -1,0 +1,5 @@
+D:\Projects\Console_DataEncoder\obj\Debug\net5.0\Console14_EncoderApplication.csproj.AssemblyReference.cache
+D:\Projects\Console_DataEncoder\obj\Debug\net5.0\Console14_EncoderApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_DataEncoder\obj\Debug\net5.0\Console14_EncoderApplication.AssemblyInfoInputs.cache
+D:\Projects\Console_DataEncoder\obj\Debug\net5.0\Console14_EncoderApplication.AssemblyInfo.cs
+D:\Projects\Console_DataEncoder\obj\Debug\net5.0\Console14_EncoderApplication.csproj.CoreCompileInputs.cache

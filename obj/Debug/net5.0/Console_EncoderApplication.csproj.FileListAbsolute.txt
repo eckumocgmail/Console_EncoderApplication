@@ -1,0 +1,6 @@
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.csproj.AssemblyReference.cache
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.AssemblyInfoInputs.cache
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.AssemblyInfo.cs
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.csproj.CoreCompileInputs.cache
+D:\Projects\Console_EncoderApplication\obj\Debug\net5.0\Console_EncoderApplication.MvcApplicationPartsAssemblyInfo.cache
